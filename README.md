@@ -67,7 +67,7 @@ Playback → User can play all generated audios with synchronized headline & sum
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Sample news data and ausio files are also in repo
+## Sample news data and audio files are in repo
 ### News 1
 <img width="975" height="245" alt="image" src="https://github.com/user-attachments/assets/3d26da7f-2b53-4650-aeb8-961049095c7b" />
 

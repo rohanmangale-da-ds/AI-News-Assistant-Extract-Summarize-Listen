@@ -16,7 +16,7 @@ It integrates web scraping, transformer-based summarization (Hugging Face BART m
 
 ⏱️ Time Tracking → Reports how long extraction, summarization, and audio generation take.
 
-Technologies Used
+## Technologies Used
 
 Python 3.10+
 
@@ -39,7 +39,7 @@ Pygame – Audio playback
 Winsound – System notifications
 
 
-Project Structure
+## Project Structure
 📦 AI-News-Assistant
 ├── main.py                # Orchestrates full pipeline (extraction → summarization → audio → playback)
 ├── news_extractor.py      # Scrapes news from Times of India & saves raw data
@@ -50,7 +50,7 @@ Project Structure
 ├── listen_news/           # Folder where generated .wav audio files are stored
 
 
-⚙️ How It Works
+## ⚙️ How It Works
 
 Run the pipeline
 

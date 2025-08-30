@@ -59,6 +59,28 @@ python main.py
 
 News Extraction → Scrapes articles from Times of India and saves them to news_data.json.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## Sample news data and ausio files are also in repo
+### News 1
+<img width="975" height="245" alt="image" src="https://github.com/user-attachments/assets/3d26da7f-2b53-4650-aeb8-961049095c7b" />
+### News 1 Summarized
+<img width="975" height="72" alt="image" src="https://github.com/user-attachments/assets/8bfa72de-3c74-45dd-b765-9f756ef7a64e" />
+
+### News 2
+<img width="975" height="196" alt="image" src="https://github.com/user-attachments/assets/67b34e1a-cea4-443c-bc31-a8fb999bc2d2" />
+### News 2 Summarized
+<img width="975" height="70" alt="image" src="https://github.com/user-attachments/assets/2c7d3d94-afbc-41ff-944a-8116b4c33d9e" />
+
+### News 3
+<img width="975" height="236" alt="image" src="https://github.com/user-attachments/assets/771e631f-48fe-4cc9-9309-9a9902377faa" />
+### News 3 Summarized
+<img width="975" height="85" alt="image" src="https://github.com/user-attachments/assets/5189344b-4ae4-486a-b426-de1f03f0c4cd" />
+
+
+
+
 Summarization → Uses Hugging Face facebook/bart-large-cnn to summarize articles → output saved in summarized_news_data.json.
 
 Audio Generation → Uses Hugging Face sesame/csm-1b to convert summarized text to .wav audio → stored in listen_news/.
